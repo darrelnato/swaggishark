@@ -158,3 +158,8 @@ ul#socials li img {
             transform: translatex(-3200px);
   }
 }
+@media screen and (max-width: 800px) {
+  #content {
+    padding: 30px;
+  }
+}
